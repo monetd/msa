@@ -26,4 +26,4 @@ mynginx      NodePort    10.103.203.167   <none>        80:31739/TCP   5s
 ## Test
 - nginx 웹 페이지 접속 (http://127.0.0.1:31739)
 
-![Welcome Page](./_static/web2.png)
+![Welcome Page](../_static/web2.png)
