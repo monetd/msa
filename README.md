@@ -43,4 +43,4 @@ ec88dff2e019        inverlist/nginx     "nginx"             44 seconds ago      
 
 [![asciicast](https://asciinema.org/a/290796.svg)](https://asciinema.org/a/290796)
 
-![Welcome Page](./static/web.png)
+![Welcome Page](./_static/web.png)
