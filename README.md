@@ -40,6 +40,7 @@ ec88dff2e019        inverlist/nginx     "nginx"             44 seconds ago      
 
 ## 서비스 확인
 - nginx 웹 페이지 접속 (http://127.0.0.1:8080)
-<script id="asciicast-290796" src="https://asciinema.org/a/290796.js" async></script>
+
+[![asciicast](https://asciinema.org/a/290796.svg)](https://asciinema.org/a/290796)
 
 ![Welcome Page](./static/web.png)
