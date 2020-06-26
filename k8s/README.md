@@ -1,5 +1,8 @@
 ## Deployments
 - `k8s.sh` 를 실행시킨다. (Pods 20개 / 서비스포트 TCP_80)
+
+[![asciicast](https://asciinema.org/a/343246.svg)](https://asciinema.org/a/343246)
+
 - 생성된 deployment  확인
 
 ```
@@ -21,6 +24,6 @@ mynginx      NodePort    10.103.203.167   <none>        80:31739/TCP   5s
 ```
 
 ## Test
-- 접속해본다. (http://127.0.0.1:31739)
+- nginx 웹 페이지 접속 (http://127.0.0.1:31739)
 
 ![Welcome Page](./_static/web2.png)
